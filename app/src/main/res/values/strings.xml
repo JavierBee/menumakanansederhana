@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Menu Makanan Haachaman</string>
+
+    <string-array name="makanan">
+
+        <item>Groza</item>
+        <item>Hot cake</item>
+        <item>Karitaco</item>
+        <item>Mentostoriyaki</item>
+        <item>Pasta</item>
+        <item>Pizza</item>
+        <item>Ramen</item>
+        <item>Soup</item>
+        <item>Vegetabel Hot pot</item>
+        <item>Taco Sushi</item>
+        <item>Noodle Soup</item>
+
+    </string-array>
+    <string-array name="harga">
+        <item>Rp 200.000</item>
+        <item>Rp 179.000</item>
+        <item>Rp 149.000</item>
+        <item>Rp 219.000</item>
+        <item>Rp 99.000</item>
+        <item>Rp 89.000</item>
+        <item>Rp 119.000</item>
+        <item>Rp 129.000</item>
+        <item>Rp 39.000</item>
+        <item>Rp 109.000</item>
+        <item>Rp 299.000</item>
+
+    </string-array>
+
+    <string-array name="deskripsion">
+        <item>Buka groza PUBG tapi groza gosong yang isinya daging dan sayur.</item>
+        <item>Campuran beberapa buah yang oven dan ditaburi biji wijen,slai coklat</item>
+        <item>perpaduan kuah kari daging dan kacang taco</item>
+        <item>Teriyaki + permen mentos</item>
+        <item>Pasta biasa</item>
+        <item>Pizza hot pot </item>
+        <item>mie goreng pakai kuah</item>
+        <item>soup dengan daging dan sayur</item>
+        <item>intinya roti isi sayur</item>
+        <item>luarnya sushi dalamnya taco</item>
+        <item>mie rebus pedas</item>
+    </string-array>
+</resources>
